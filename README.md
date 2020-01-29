@@ -15,7 +15,7 @@
 
 ```
 $ npm install hexo-renderer-scss --save
-$ git clone https://github.com/frostfan/hexo-theme-polarbear themes/polarbear
+$ git clone https://github.com/zhanch/hexo-theme-polarbear themes/polarbear
 ```
 
 3.Modify `yoursite/_config.yml`
